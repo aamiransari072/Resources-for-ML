@@ -20,6 +20,9 @@ This repository contains resources covering the following topics:
 - **Exploratory Data Analysis (EDA):** Cheat sheets, tutorials, and best practices for conducting EDA to gain insights from datasets.
 - **ML Algorithms:** Detailed explanations, implementation guides, and code samples for various ML algorithms, ranging from linear regression to deep learning models.
 
+- **Lets move on to core concept of machine learning:**
+     -**Linear Regression:**
+
 ## How to Use
 Explore the contents of this repository to find resources relevant to your learning goals:
 - **Browse:** Navigate through folders to find resources categorized by topic.
